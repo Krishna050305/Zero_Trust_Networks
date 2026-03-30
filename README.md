@@ -69,7 +69,7 @@ The three core principles this simulation demonstrates:
 
 ---
 
-## Architecture Diagram (Mermaid)
+## Architecture Diagram 
 
 ```mermaid
 graph TB
